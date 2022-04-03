@@ -1,0 +1,16 @@
+.Input{ background-color: pink; 
+    text-align: center;
+     border: 2px solid Blue;
+     border-radius: 12px;
+      text-decoration: underline; 
+    }
+.inputtext1{
+  width: 400px;
+  height: 40px;
+};
+
+.inputtext2{
+   
+  width: 400px;
+    height: 40px;
+};

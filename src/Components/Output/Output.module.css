@@ -1,0 +1,24 @@
+.output {background-color:lightblue;
+    padding: 10px;
+    border-radius: 12px; 
+    text-decoration:underline;
+}
+.result{
+    background-color:lightblue;
+    padding: 10px;
+    border-radius: 12px; 
+    text-decoration:underline;
+}
+.maindiv{
+    border: 2px solid red;
+    border-radius: 12px;
+}
+.btn{
+        text-align: center;
+}
+.h2{
+    text-align: center;
+}
+.li{
+    font-size: x-large;
+}
